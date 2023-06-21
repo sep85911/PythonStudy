@@ -3,7 +3,7 @@ import os
 
 aaa = 123
 
-with open('UpgradeData.txt') as f:
+with open('./Data/UpgradeData.txt') as f:
     lines = f.readlines()
 
 config = {}
