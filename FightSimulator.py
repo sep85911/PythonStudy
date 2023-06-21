@@ -60,6 +60,7 @@ class Battle:
 
             time.sleep(0.1)  # 暂停0.5秒
 
+print(__name__)
 if __name__ == '__main__':
     battle = Battle()
     battle.start()
