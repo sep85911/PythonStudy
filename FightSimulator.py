@@ -63,4 +63,4 @@ class Battle:
 if __name__ == '__main__':
     battle = Battle()
     battle.start()
-    # os.system("pause")
+    os.system("pause")
